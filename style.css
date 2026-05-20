@@ -201,6 +201,7 @@ a:active {
     display: flex;
     align-items: center;
     gap: 10px;
+    line-height: 1;
 }
 
 .topnav i {
