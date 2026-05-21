@@ -48,7 +48,7 @@ I don't know what the next stage will be. Keep creating.
 
 ## Links
 
-- [Try and Buy Fonts](https://htfonts.com/fonts/weg)
+- [Try and Buy Fonts](https://htfonts.com/fonts/weg/buy)
 - [Font in use](https://fontsinuse.com/typefaces/157795/weg)
 - [PDF Specimen](https://htfonts.com/storage/uploads/weg/weg.pdf)
 - [Press/Gráffica article](https://graffica.info/tipografia-weg-en-busca-de-los-limites-de-la-experimentacion/)
